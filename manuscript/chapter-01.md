@@ -1,3 +1,6 @@
-# Core Concepts
+# Key Concepts
 
-The quick brown fox **jumped** over the lazy dog.
+This chapter provides a broad overview of some key concepts. You'll learn enough in this chapter to be able to carry an auth conversation in an elevator. But first, what _is_ auth?
+
+## What is "Auth"?
+
