@@ -1,8 +1,11 @@
 # Introduction
+
 ### What is auth?
 
 **Auth** is nickname for a big bucket of concepts, guidelines, and technologies used to make computer systems **secure**.
+
 ### What makes a computer system secure?
+
 A secure computer system has three important characteristics:
 
 1. Only humans with explicit permission may use the system.
