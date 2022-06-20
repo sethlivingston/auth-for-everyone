@@ -18,6 +18,8 @@ First, some enterprising people figured out how to turn software vulnerabilities
 
 And that's how auth got so big and complicated. Everything in the auth bucket is there because software is vulnerable, and, to make matters worse, it's all connected and accessible in the cloud.
 
+
+
 ## Auth is for everyone
 
 `TODO: why everyone should know auth at some level (tie back to hackers and cloud)`

@@ -36,3 +36,12 @@ Guarding the gates is called authentication.
 
 
 > **Authentication** is the process of verifying that someone entering the system is a recognized user and is who they say they are.
+
+
+
+
+
+
+
+
+
